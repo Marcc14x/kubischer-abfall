@@ -56,9 +56,9 @@ $$
 Gesucht: $\sqrt[3]{985{,}074{,}875}$
 
 1. Referenz:  
-$$
-   a = 1000 \quad\Rightarrow\quad a^3 = 1{,}000{,}000{,}000
-$$
+
+   $a = 1000 \quad\Rightarrow\quad a^3 = 1{,}000{,}000{,}000$
+
 
 2. Differenz:  
 $$
