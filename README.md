@@ -27,27 +27,27 @@ $$
 
 2. **Kubischer Abfall (exakt):**
 
-   $$
+$$
    \text{Abfall} = a^3 - (a - 1)^3 = 3a^2 - 3a + 1
-   $$
+$$
 
    Näherung (für schnelles Kopfrechnen):
 
-   $$
+$$
    \text{Abfall} \approx 3a^2
-   $$
+$$
 
 3. **Anteil des Abfalls:**
 
-   $$
+$$
    \delta = \frac{\Delta}{\text{Abfall}}
-   $$
+$$
 
 4. **Kubikwurzel schätzen:**
 
-   $$
+$$
    \hat{x} = a - \delta
-   $$
+$$
 
 ---
 
@@ -56,29 +56,29 @@ $$
 Gesucht: $\sqrt[3]{985{,}074{,}875}$
 
 1. Referenz:  
-   $$
+$$
    a = 1000 \quad\Rightarrow\quad a^3 = 1{,}000{,}000{,}000
-   $$
+$$
 
 2. Differenz:  
-   $$
+$$
    \Delta = 1{,}000{,}000{,}000 - 985{,}074{,}875 = 14{,}925{,}125
-   $$
+$$
 
 3. Kubischer Abfall (exakt):  
-   $$
+$$
    1000^3 - 999^3 = 1{,}000{,}000{,}000 - 997{,}002{,}999 = 2{,}997{,}001
-   $$
+$$
 
 4. Anteil berechnen:  
-   $$
+$$
    \delta = \frac{14{,}925{,}125}{2{,}997{,}001} \approx 4.98
-   $$
+$$
 
 5. Näherung:  
-   $$
+$$
    \hat{x} = 1000 - 5 = \boxed{995}
-   $$
+$$
 
 **Prüfung:**  
 $$
