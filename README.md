@@ -6,7 +6,7 @@ Diese Methode erlaubt es, Kubikwurzeln großer Zahlen im Kopf sehr schnell zu sc
 
 ## 🧠 Idee
 
-Wenn du eine Zahl wie $985{,}074{,}875$ hat, die nahe an $1000^3 = 1\,000\,000\,000$ liegt, kannst du ihre Kubikwurzel schnell schätzen – **ohne Taschenrechner**, nur mittels des lokalen „kubischen Abfalls“.
+Wenn du eine Zahl wie $985{,}074{,}875$ hast, die nahe an $1000^3 = 1\,000\,000\,000$ liegt, kannst du ihre Kubikwurzel schnell schätzen – **ohne Taschenrechner**, nur mittels des lokalen „kubischen Abfalls“.
 
 ---
 
