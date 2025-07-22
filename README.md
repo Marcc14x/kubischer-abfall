@@ -21,9 +21,9 @@ Gegeben:
 
 1. **Differenz zur Referenz:**
 
-   $$
+$$
    \Delta = a^3 - N
-   $$
+$$
 
 2. **Kubischer Abfall (exakt):**
 
