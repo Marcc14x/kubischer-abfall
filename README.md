@@ -21,9 +21,7 @@ Gegeben:
 
 1. **Differenz zur Referenz berechnen:**
 
-   $
-   \Delta = a^3 - N
-   $
+$ \Delta = a^3 - N $\text{}
 
 2. **Kubischen Abfall berechnen:**
 
